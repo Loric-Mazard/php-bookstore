@@ -8,4 +8,4 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@4
       - name: Build project
-	    run: echo "build"
+	      run: echo "build"
